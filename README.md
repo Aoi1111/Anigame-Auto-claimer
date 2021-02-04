@@ -1,5 +1,7 @@
 # Anigame-Auto-claimer
 
+![ani](https://user-images.githubusercontent.com/66194703/106935471-643c0400-66e9-11eb-89e2-3ec790a4dd72.gif)
+
 
 Anigame auto claimer
 
