@@ -1,0 +1,3 @@
+python 
+visual studio code or any app to edit the code
+discord.py
