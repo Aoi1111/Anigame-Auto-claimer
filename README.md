@@ -9,4 +9,4 @@ Features :
   3) Auto lottery,hourly and battle 
   4) Auto raid joiner 
 
-If you would like to purchase any of these DM me on Discord xero#4748
+If you would like to purchase any of these DM me on Discord Zenox#4748
